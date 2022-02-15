@@ -5,7 +5,7 @@ var submitButton = document.getElementById("submit");
 var answerElement = document.getElementById("answerTally");
 
 
-var correctAnswers = ["six", "truman", "shakespeares", "kbia"];
+var correctAnswers = ["kbia", "six", "truman", "shakespeares", "Lee Hills Hall"];
 var numberOfCorrectAnswers;
 
 var eachInput;

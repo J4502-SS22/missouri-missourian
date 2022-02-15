@@ -88,7 +88,7 @@ h1 {
 .trump_won {
     border-color: red;
     border-style: solid;
-    text-transform: lowercase;
+    text-transform: sentencecase;
 }
 
 .biden_won {
